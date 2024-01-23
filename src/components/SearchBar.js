@@ -1,6 +1,5 @@
 function SearchBar() {
   
-
     return (
       
 
@@ -9,4 +8,4 @@ function SearchBar() {
         </div>
     );
 }
-export default SearchBar
+export default SearchBar;
